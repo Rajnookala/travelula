@@ -1,0 +1,45 @@
+.itinerary-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  body {
+    background-image: url("https://source.unsplash.com/1600x900/?maasai-mara,safari");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #2d4059;
+  }
+  
+  h3 {
+    color: #ff6a88;
+    margin-top: 20px;
+  }
+  
+  p, li {
+    font-size: 1.1rem;
+    color: #444;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  .special-offer {
+    background: #ffebcd;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  .terms, .payment, .inclusions, .exclusions {
+    margin-top: 30px;
+  }
+  
